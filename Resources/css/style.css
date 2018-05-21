@@ -1,0 +1,37 @@
+body{
+  background-color: black;
+  font-family: verdana;
+  text-align: center;
+  color: white;
+}
+
+h1{
+  font-size: 50px;
+}
+
+h2{
+  color: gray;
+  font-size: 21px;
+}
+
+a{
+    color: Aquamarine;
+}
+
+.video{
+  margin-left: auto;
+  width: 100%;
+  padding: 10px;
+}
+
+#anchor{
+  font-size: 16px;
+  margin-left: auto;
+  width: 100%;
+  padding: 10px;
+}
+
+#footer{
+  text-align: right;
+  font-weight: lighter;
+}
